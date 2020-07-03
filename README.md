@@ -32,7 +32,7 @@ $ yarn serve
 ![デフォルトページ](https://github.com/kooooichi24/vue-tutorial-hello-world/blob/photo/2.png)
 
 ### Step 3
-1. Vue Projectの最小単位を理解する
+1. Vue Fileの最小単位を理解する
 
 .vueファイルの構成要素は以下の3つです。
   - template
