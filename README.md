@@ -1,6 +1,9 @@
 # vue-tutorial-hello-world
 
 ## ゴール：Hello World ができるようになる
+### Step 0
+@funator26 がPull Requestsした、例の README.md を参考に環境構築してください。
+
 ### Step 1
 1. まずはVueプロジェクトを作成する
 ```bash
