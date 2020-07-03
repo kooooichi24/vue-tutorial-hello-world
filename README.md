@@ -21,7 +21,7 @@ $ yarn serve
 ### Step 2
 1. Hello world
 
-/src/App.vue　を開き、templateタグの中のHelloWorldタグのmsgプロパティの値を"Hello world"と変更してください。
+/src/App.vue　を開き、templateタグの中のHelloWorldタグのmsgプロパティの値を"Hello World"と変更してください。
 
 終わりです。
 
