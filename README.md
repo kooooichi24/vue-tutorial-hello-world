@@ -1,6 +1,28 @@
 **This repository is vue tutorial learning how to make vue-component.**
 # vue-tutorial-component
 
+## How to use Vue Component?
+### Step 1
+1. Create vue project
+```bash
+$ vue create [please write your project name]
+```
+It will be displayed as `Please pick a preset: (Use arrow keys)`. 
+
+Please select the `default (babel, eslint)` in this case.
+
+2. Compiles and hot-reloads for development
+```
+$ yarn serve
+```
+上記のコマンドを実行するとVue Projectが実行されます。Vueのデフォルトポートである`localhost:8080`にアクセスして、Welcome to Your Vue.js App と描画されていることを確認してください。
+
+
+
+
+
+
+
 ## Project setup
 1. Clone this repository
 ```bash
@@ -14,17 +36,13 @@ $ cd vue-tutorial-component
 
 3. Install packages
 ```
-yarn install
+$ yarn install
 ```
 
 4. Compiles and hot-reloads for development
 ```
-yarn serve
+$ yarn serve
 ```
-
-
-
-
 
 ## License
 
