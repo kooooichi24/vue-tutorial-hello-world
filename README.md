@@ -26,6 +26,7 @@ $ yarn serve
 終わりです。
 
 ブラウザで、`Welcome to Your Vue.js App`と記載されていた箇所が`Hello world`と変わっていることを確認してください。
+
 ![デフォルトページ](https://github.com/kooooichi24/vue-tutorial-component/blob/photo/2.png)
 
 
