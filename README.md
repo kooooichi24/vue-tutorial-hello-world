@@ -18,7 +18,14 @@ $ yarn serve
 上記のコマンドを実行するとVue Projectが実行されます。Vueのデフォルトポートである`localhost:8080`にアクセスして、Welcome to Your Vue.js App と描画されていることを確認してください。
 ![デフォルトページ](https://github.com/kooooichi24/vue-tutorial-component/blob/photo/1.png)
 
+### Step 2
+1. Hello world
 
+/src/App.vue　を開き、templateタグの中のHelloWorldタグのmsgプロパティの値を"Hello world"と変更してください。
+
+終わりです。
+
+ブラウザで、`Welcome to Your Vue.js App`と記載されていた箇所が`Hello world`と変わっていることを確認してください。
 
 
 
