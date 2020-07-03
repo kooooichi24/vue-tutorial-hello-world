@@ -16,7 +16,7 @@ Please select the `default (babel, eslint)` in this case.
 $ yarn serve
 ```
 上記のコマンドを実行するとVue Projectが実行されます。Vueのデフォルトポートである`localhost:8080`にアクセスして、Welcome to Your Vue.js App と描画されていることを確認してください。
-![デフォルトページ]](https://github.com/kooooichi24/vue-tutorial-component/blob/photo/1.png)
+![デフォルトページ](https://github.com/kooooichi24/vue-tutorial-component/blob/photo/1.png)
 
 
 
