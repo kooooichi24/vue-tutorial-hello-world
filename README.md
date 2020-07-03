@@ -31,6 +31,18 @@ $ yarn serve
 
 ![デフォルトページ](https://github.com/kooooichi24/vue-tutorial-hello-world/blob/photo/2.png)
 
+### Step 3
+1. Vue Projectの最小単位を理解する
+
+.vueファイルの構成要素は以下の3つです。
+  - template
+  - script
+  - style
+
+以下のHello Worldのみが描画されるように、.vueファイルの不要な箇所を削除してください。
+
+![デフォルトページ](https://github.com/kooooichi24/vue-tutorial-hello-world/blob/photo/3.png)
+
 
 ## License
 
