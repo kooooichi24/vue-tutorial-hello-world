@@ -1,22 +1,21 @@
-**This repository is vue tutorial learning how to make vue-component.**
-# vue-tutorial-component
+# vue-tutorial-hello-world
 
-## How to use Vue Component?
+## ゴール：Hello World ができるようになる
 ### Step 1
-1. Create vue project
+1. まずはVueプロジェクトを作成する
 ```bash
 $ vue create [please write your project name]
 ```
-It will be displayed as `Please pick a preset: (Use arrow keys)`. 
+`Please pick a preset: (Use arrow keys)`と表示されると思います。 
 
-Please select the `default (babel, eslint)` in this case.
+今回は、`default (babel, eslint)`を選択してください。
 
-2. Compiles and hot-reloads for development
+2. 実行
 ```
 $ yarn serve
 ```
 上記のコマンドを実行するとVue Projectが実行されます。Vueのデフォルトポートである`localhost:8080`にアクセスして、Welcome to Your Vue.js App と描画されていることを確認してください。
-![デフォルトページ](https://github.com/kooooichi24/vue-tutorial-component/blob/photo/1.png)
+![デフォルトページ](https://github.com/kooooichi24/vue-tutorial-hello-world/blob/photo/1.png)
 
 ### Step 2
 1. Hello world
@@ -27,31 +26,8 @@ $ yarn serve
 
 ブラウザで、`Welcome to Your Vue.js App`と記載されていた箇所が`Hello world`と変わっていることを確認してください。
 
-![デフォルトページ](https://github.com/kooooichi24/vue-tutorial-component/blob/photo/2.png)
+![デフォルトページ](https://github.com/kooooichi24/vue-tutorial-hello-world/blob/photo/2.png)
 
-
-
-
-## Project setup
-1. Clone this repository
-```bash
-$ git clone https://github.com/kooooichi24/vue-tutorial-component.git
-```
-
-2. Go into the repository
-```bash
-$ cd vue-tutorial-component
-```
-
-3. Install packages
-```
-$ yarn install
-```
-
-4. Compiles and hot-reloads for development
-```
-$ yarn serve
-```
 
 ## License
 
