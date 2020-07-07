@@ -2,7 +2,7 @@
 
 ## ゴール：Hello World ができるようになる
 ### Step 0
-@funator26 がPull Requestsした、例の README.md を参考に環境構築してください。
+@funator26 がPull Requestsした、例の [README.md](https://github.com/mickeyjoe666/OnBoardingSupportSystem/tree/feature_install_vue_by_funato_0701) を参考に環境構築してください。
 
 ### Step 1
 1. まずはVueプロジェクトを作成する
